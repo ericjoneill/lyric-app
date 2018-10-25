@@ -1,0 +1,13 @@
+{
+  "main.css": "/lyric-app/static/css/main.9743dcc1.chunk.css",
+  "main.js": "/lyric-app/static/js/main.59b4b29e.chunk.js",
+  "main.js.map": "/lyric-app/static/js/main.59b4b29e.chunk.js.map",
+  "static/js/1.cb077c9c.chunk.js": "/lyric-app/static/js/1.cb077c9c.chunk.js",
+  "static/js/1.cb077c9c.chunk.js.map": "/lyric-app/static/js/1.cb077c9c.chunk.js.map",
+  "runtime~main.js": "/lyric-app/static/js/runtime~main.4bb27191.js",
+  "runtime~main.js.map": "/lyric-app/static/js/runtime~main.4bb27191.js.map",
+  "static/css/main.9743dcc1.chunk.css.map": "/lyric-app/static/css/main.9743dcc1.chunk.css.map",
+  "index.html": "/lyric-app/index.html",
+  "precache-manifest.0ad0229ce380e3feefa37c93f3197adb.js": "/lyric-app/precache-manifest.0ad0229ce380e3feefa37c93f3197adb.js",
+  "service-worker.js": "/lyric-app/service-worker.js"
+}
